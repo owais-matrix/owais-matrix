@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://github.com/owais-matrix/owais-matrix/blob/main/img/fan.gif" alt="Fan" align="center">
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-fan.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/owais-matrix/owais-matrix/blob/main/img/welcome-fire.gif" alt="Welcome" align="center">
+<img src="https://raw.githubusercontent.com/muhammadowaismushtaq/muhammadowaismushtaq/main/assets/muhammadowaismushtaq-welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
