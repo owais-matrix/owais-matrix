@@ -12,6 +12,6 @@ to my GitHub profile!
 
 <h3 align="center">
   <a href="https://muhammadowaismushtaq.github.io/" target="_blank">
-    Explore My Portfolio & Projects
+    Explore My Portfolio & Project
   </a>
 </h3>
